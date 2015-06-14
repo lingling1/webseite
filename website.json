@@ -76,22 +76,27 @@
 		{
 			"name":"altena",
 			"prefix":"FF-AL-",
-			"fwprefix":"gluon-ffrg-0.61-"
+			"fwprefix":"gluon-ffrg-0.6.2-"
 		},
 		{
 			"name":"hemer",
 			"prefix":"FF-HE-",
-			"fwprefix":"gluon-ffrg-0.61-"
+			"fwprefix":"gluon-ffrg-0.6.2-"
 		},
 		{
 			"name":"iserlohn",
 			"prefix":"FF-Is-",
-			"fwprefix":"gluon-ffrg-0.6-"
+			"fwprefix":"gluon-ffrg-6.2-"
+		},
+		{
+			"name":"ludenscheid",
+			"prefix":"FF-LS-",
+			"fwprefix":"gluon-ffrg-6.2-"
 		},
 		{
 			"name":"meinerzhagen",
 			"prefix":"FF-MZ-",
-			"fwprefix":"gluon-ffrg-0.61-"
+			"fwprefix":"gluon-ffrg-0.6.2-"
 		}
 	],
 	"router":[
