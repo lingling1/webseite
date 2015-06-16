@@ -49,6 +49,11 @@
 		},
 		{
 			"icon":"",
+			"name":"Mitmachen",
+			"url":"contribute.php"
+		},
+		{
+			"icon":"",
 			"name":"Downloads",
 			"url":"downloads.php"
 		},
@@ -62,16 +67,16 @@
 		{
 			"icon":"",
 			"headline":"Willkommen bei Freifunk im Märkischen Kreis",
-			"image":"amp.png",
+			"image":"",
 			"content":"<img src='gfx/ffhandy.png' style='float:left;margin-right:20px'>Freifunk ist ein von Bürgern für Bürger betriebenes funkbasiertes Computernetzwerk (WLAN). Ziel ist es, eine möglichst hohe Flächendeckung zu erreichen und damit jeder und jedem überall Zugang zu ermöglichen.<br>Ganz egal ob im Cafe, beim Einkaufen oder Zuhause: Du hast Empfang mit deinem Handy, Tablet oder Computer und das ganz ohne ständige Kosten.<br>Über die Stadt verteilt bauen Freiwillige geeignete Router auf, die sich untereinander Vernetzen und die Verbindung zwischen Nutzer und Internet herstellen.<br><br><div style='text-align:center'><b>Jeder kann mitmachen!</b></div><br><br><br><br><br>"
 		}
 	],
 	"contribute":[
 		{
 			"icon":"",
-			"headline":"Mitmachen",
-			"image":"amp.png",
-			"content":""
+			"headline":"Mitmachen - so einfach gehts",
+			"image":"",
+			"content":"Um selbst am Freifunk Netzwerk teilzunehmen braucht es nicht viel.<br>"
 		}
 	],
 	"contact":[
