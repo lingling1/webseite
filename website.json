@@ -275,10 +275,10 @@
 	"termine":[
 		{
 			"icon":"wifi",
-			"headline":"Bücherei Letmathe versorgt",
+			"headline":"Friedensfest versorgt",
 			"date":"20150630",
-			"image":"museum.jpg",
-			"content":"Nicht nur um das Stadtmuseum herum wird gebaut, auch das Stadtmuseum selber hat ein Upgrade erfahren. Zumindest hat es neben Kettenhemden jetzt auch Freifunk."
+			"image":"friedensfest.jpg",
+			"content":""
 		},
 		{
 			"icon":"wifi",
@@ -293,6 +293,13 @@
 			"date":"20150520",
 			"image":"rathausis.png",
 			"content":"Ganz egal ob bei der Mittagspause in der Kantine, im Wartebereich des Einwohnermeldeamts oder im Ratsaal, überall dort gibt es nun Freifunk. Dank der klasse Zusammenarbeit mit der Städtischen IT Abteilung sind nun viele Bereiche des Iserlohner Rathauses mit Freifunk versorgt. Obendrein versorgen zwei Richtantennen den Schillerplatz mit dem Freien Netz."
+		},
+		{
+			"icon":"wifi",
+			"headline":"Stadmuseum versorgt",
+			"date":"20150513",
+			"image":"museum.jpg",
+			"content":"Nicht nur um das Stadtmuseum herum wird gebaut, auch das Stadtmuseum selber hat ein Upgrade erfahren.<br>Zumindest hat es neben Kettenhemden jetzt auch Freifunk."
 		}
 	],
 	"mehr":[
