@@ -49,6 +49,11 @@
 		},
 		{
 			"icon":"",
+			"name":"Karte",
+			"url":"map.php"
+		},
+		{
+			"icon":"",
 			"name":"Mitmachen",
 			"url":"contribute.php"
 		},
@@ -278,7 +283,7 @@
 			"headline":"Friedensfest versorgt",
 			"date":"20150630",
 			"image":"friedensfest.jpg",
-			"content":""
+			"content":"Das Friedensfestival 2015 ist zu Ende gegangen. Viele Menschen haben bei wunderbarem Wetter ein tolles Programm genossen. Einige von ihnen haben dabei auch Freifunk genutzt. Wir konnten Spitzenlasten von bis zu 80 Nutzern gleichzeitig verzeichnen und über das ganze Wochenende haben etliche hundert Menschen das Netz genutzt um zu kommunizieren. Wir sind glücklich, dass das alles so gut geklappt hat und freuen uns schon auf das nächste Jahr "
 		},
 		{
 			"icon":"wifi",
@@ -320,7 +325,7 @@
 			"icon":"thumbs-up",
 			"headline":"Unsere Unterstützer",
 			"image":"",
-			"content":"<div style='text-align:center'><b>Freifunk im Märkischen Kreis wird unterstützt durch:</b><br><br><a href='http://chaos-consulting.de'><img src='gfx/cc_header.png' style='width:100%'></a><br><br><a href='http://http://www.stadtwerke-iserlohn.de/'><img src='gfx/stadtwerke.png' style='width:100%'></a><br></div>"
+			"content":"<div style='text-align:center'><b>Freifunk im Märkischen Kreis wird unterstützt durch:</b><br><br><a href='http://chaos-consulting.de'><img src='gfx/cc_header.png' style='width:100%'></a><br><br><a href='http://www.stadtwerke-iserlohn.de/'><img src='gfx/stadtwerke.png' style='width:100%'></a><br></div>"
 		}
 	]
 }
