@@ -295,6 +295,13 @@
 	"termine":[
 		{
 			"icon":"wifi",
+			"headline":"Neue Server",
+			"date":"20150714",
+			"image":"server.jpg",
+			"content":"Nach Wochen der Vorbereitung bekommt Freifunk im Märkischen Kreis zusammen mit Freifunk Siegerland eigene Server, die in den nächsten Tagen in Betrieb gehen werden. Mit der neuen Technik wird sich die Surfgeschwindigkeit an vielen Orten deutlich verbessern. Die neue Software steht für alle experimentierfreudigen zum Download bereit."
+		},
+		{
+			"icon":"wifi",
 			"headline":"Friedensfest versorgt",
 			"date":"20150630",
 			"image":"friedensfest.jpg",
