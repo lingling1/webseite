@@ -96,27 +96,42 @@
 		{
 			"name":"altena",
 			"prefix":"FF-AL-",
-			"fwprefix":"gluon-ffal-15.06-"
+			"fwprefix":"gluon-ffal-15.07-"
+		},
+		{
+			"name":"halver",
+			"prefix":"FF-Halver-",
+			"fwprefix":"gluon-ffhv-15.07-"
 		},
 		{
 			"name":"hemer",
 			"prefix":"FF-HE-",
-			"fwprefix":"gluon-ffhe-15.06-"
+			"fwprefix":"gluon-ffhe-15.07-"
+		},
+		{
+			"name":"herscheid",
+			"prefix":"FF-Herscheid-",
+			"fwprefix":"gluon-ffhs-15.07-"
 		},
 		{
 			"name":"iserlohn",
 			"prefix":"FF-Is-",
-			"fwprefix":"gluon-ffis-15.06-"
+			"fwprefix":"gluon-ffis-15.07-"
 		},
 		{
 			"name":"luedenscheid",
 			"prefix":"FF-LS-",
-			"fwprefix":"gluon-ffls-15.06-"
+			"fwprefix":"gluon-ffls-15.07-"
 		},
 		{
 			"name":"meinerzhagen",
 			"prefix":"FF-MZ-",
-			"fwprefix":"gluon-ffmz-15.06-"
+			"fwprefix":"gluon-ffmz-15.07-"
+		},
+		{
+			"name":"plettenberg",
+			"prefix":"FF-Plet-",
+			"fwprefix":"gluon-ffpl-15.07-"
 		}
 	],
 	"router":[
