@@ -119,6 +119,11 @@
 			"fwprefix":"gluon-ffis-15.07.1-"
 		},
 		{
+			"name":"kierspe",
+			"prefix":"FF-Kierspe-",
+			"fwprefix":"gluon-ffki-15.07.1-",
+		},
+		{
 			"name":"luedenscheid",
 			"prefix":"FF-LS-",
 			"fwprefix":"gluon-ffls-15.07.1-"
@@ -129,9 +134,24 @@
 			"fwprefix":"gluon-ffmz-15.07.1-"
 		},
 		{
+			"name","menden",
+			"prefix":"ff-ME-",
+			"fwprefix":"gluon-ffme-15.07.1-",
+		},
+		{
 			"name":"plettenberg",
 			"prefix":"FF-Plet-",
 			"fwprefix":"gluon-ffpl-15.07.1-"
+		},
+		{
+			"name":"schalksmuehle",
+			"prefix":"FF-SM-",
+			"fwprefix":"gluon-ffsm-15.07.1",
+		},
+		{
+			"name":"werdohl",
+			"prefix":"FF-WD-";
+			"fwprefix":"gluon-ffwd-15.07.1",
 		}
 	],
 	"router":[
