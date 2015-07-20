@@ -323,7 +323,7 @@
 			"headline":"Neue Karte Online",
 			"date":"20150720",
 			"image":"mesh.png",
-			"content":"Nun können wir euch auch die neue Karte für die Domäne Fichtenfunk präsentieren.<b><a herf='http://map.fichtenfunk.freifunk.ruhr/meshviewer/'> Hier </a></b> zu finden "
+			"content":"Nun können wir euch auch die neue Karte für die Domäne Fichtenfunk präsentieren.<b><a href='http://map.fichtenfunk.freifunk.ruhr/meshviewer/'> Hier </a></b> zu finden "
 		},
 		{
 			"icon":"wifi",
