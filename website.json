@@ -135,8 +135,8 @@
 		},
 		{
 			"name":"menden",
-			"prefix":"ff-ME-",
-			"fwprefix":"gluon-ffme-15.07.1-"
+			"prefix":"ff-MD-",
+			"fwprefix":"gluon-ffmd-15.07.1-"
 		},
 		{
 			"name":"plettenberg",
