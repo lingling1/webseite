@@ -39,6 +39,11 @@
 			"icon":"github",
 			"name":"Github",
 			"url":"https://github.com/freifunk-mk/"
+		},
+		{
+			"icon":"globe",
+			"name":"karte",
+			"url":"http://map.fichtenfunk.freifunk.ruhr/meshviewer/"
 		}
 	],
 	"navibar":[
@@ -313,6 +318,13 @@
 		}
 	],
 	"termine":[
+		{
+			"icon":"globe",
+			"headline":"Neue Karte Online",
+			"date":"20150720",
+			"image":"mesh.png",
+			"content":"Nun können wir euch auch die neue Karte für die Domäne Fichtenfunk präsentieren.Zufinden unter http://map.fichtenfunk.freifunk.ruhr/meshviewer/ "
+		}
 		{
 			"icon":"wifi",
 			"headline":"Neue Server",
