@@ -373,7 +373,7 @@
 			"icon":"bar-chart",
 			"headline":"Status",
 			"image":"led.png",
-			"content":"!!freifunk<br><a href='stats.freifunk-mk.de'><i class='fa fa-wifi'></i> Details</a>"
+			"content":"!!freifunk<br><br><a href='http://stats.freifunk-mk.de'><i class='fa fa-wifi'></i> Details</a>"
 		},
 		{
 			"icon":"thumbs-up",
