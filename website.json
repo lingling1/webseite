@@ -42,7 +42,7 @@
 		},
 		{
 			"icon":"globe",
-			"name":"karte",
+			"name":"Karte",
 			"url":"http://map.fichtenfunk.freifunk.ruhr/meshviewer/"
 		}
 	],
@@ -323,7 +323,7 @@
 			"headline":"Neue Karte Online",
 			"date":"20150720",
 			"image":"mesh.png",
-			"content":"Nun können wir euch auch die neue Karte für die Domäne Fichtenfunk präsentieren.<b><a href='http://map.fichtenfunk.freifunk.ruhr/meshviewer/'> Hier </a></b> zu finden "
+			"content":"Nun können wir euch auch die neue Karte für die Domäne Fichtenfunk präsentieren.<b><a href='http://map.fichtenfunk.freifunk.ruhr/meshviewer'>Hier</a></b> zu finden. In den nächsten Wochen werden die Router im Märkischen Kreis und in Siegen Wittgenstein automatisch in die neue Domäne umziehen und dann auch auf der neuen Karte erscheinen. "
 		},
 		{
 			"icon":"wifi",
