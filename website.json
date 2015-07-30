@@ -319,6 +319,13 @@
 	],
 	"termine":[
 		{
+			"icon":"user",
+			"headline":"Flüchtlingsunterkunft versorgt",
+			"date":"20150731",
+			"image":"almelo.png",
+			"content":"Seit Montag versorgen wir die Flüchtlinge in der Almelohalle mit freiem WLAN. Für die knapp 150 dort Lebenden Menschen ist dies die einzige Möglichkeit kostenfrei mit ihren Angehörigen zu kommunizieren und sich über die Lage in ihrer Heimat zu informieren. Nur wenige Minuten nach der Installation nutzten bereits über 50 Menschen das Freifunk Netz vor Ort. Wir freuen uns zusammen mit Mike Kowalski von den Stadtwerken den Menschen den Aufenthalt in ihrer Unterkunft etwas angenehmer gestalten zu können."
+		},
+		{
 			"icon":"globe",
 			"headline":"Neue Karte Online",
 			"date":"20150720",
