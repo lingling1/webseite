@@ -129,6 +129,11 @@
 			"fwprefix":"gluon-ffis-15.07.1-"
 		},
 		{
+			"name":"gummersbach
+			"prefix":"FF-GM-"
+			"fwprefix":"gluon-ffgm-15.07.1-"
+		},
+		{
 			"name":"kierspe",
 			"prefix":"FF-Kierspe-",
 			"fwprefix":"gluon-ffki-15.07.1-"
