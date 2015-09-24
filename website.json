@@ -120,7 +120,7 @@
 			"icon":"globe",
 			"headline":"Karte",
 			"image":"",
-			"content":"Hier kannst Du schauen wo es überall schon Freifunk gibt.<br><iframe src='http://map.freifunk-mk.de' width='100%' height='250px' frameborder='0'></iframe>"
+			"content":"Hier kannst Du schauen wo es überall schon Freifunk gibt.<br><iframe src='http://map.freifunk-mk.de' width='100%' height='450px' frameborder='0'></iframe>"
 		}
 	],
 	"termine":[
