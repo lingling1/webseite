@@ -120,7 +120,7 @@
 			"icon":"globe",
 			"headline":"Karte",
 			"image":"",
-			"content":"Hier kannst Du schauen wo es überall schon Freifunk gibt.<br><a haref="/map.php"><img src='gfx/map.png' width='100%'></a>"
+			"content":"Hier kannst Du schauen wo es überall schon Freifunk gibt.<br><a haref='/map.php'><img src='gfx/map.png' width='100%'></a>"
 		}
 	],
 	"termine":[
