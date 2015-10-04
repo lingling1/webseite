@@ -183,6 +183,13 @@
 			"url":"index.php"
 		},
 		{
+			"icon":"home",
+			"headline":"Unterstütze uns!",
+			"image":"led.png",
+			"content":"<iframe frameborder='0' marginheight='0' marginwidth='0' src='https://www.betterplace.org/de/projects/34177-freifunk-fur-fluchtlingsunterkunft-in-meinerzhagen/widget' width='160' height='260' style='border: 0; padding:0; margin:0;'>Informieren und spenden: <a href='https://www.betterplace.org/de/projects/34177-freifunk-fur-fluchtlingsunterkunft-in-meinerzhagen/widget' target='_blank'>„Freifunk für Flüchtlingsunterkunft in Meinerzhagen“</a> auf betterplace.org öffnen.</iframe>",
+			"url":"index.php"
+		},
+		{
 			"icon":"bar-chart",
 			"headline":"Status",
 			"image":"led.png",
