@@ -150,7 +150,7 @@
 			"headline":"Friedensfest versorgt",
 			"date":"20150630",
 			"image":"friedensfest.jpg",
-			"content":"Das Friedensfestival 2015 ist zu Ende gegangen. Viele Menschen haben bei wunderbarem Wetter ein tolles Programm genossen. Einige von ihnen haben dabei auch Freifunk genutzt. Wir konnten Spitzenlasten von bis zu 80 Nutzern gleichzeitig verzeichnen und über das ganze Wochenende haben etliche hundert Menschen das Netz genutzt um zu kommunizieren. Wir sind glücklich, dass das alles so gut geklappt hat und freuen uns schon auf das nächste Jahr "
+			"content":"Das Friedensfestival 2015 ist zu Ende gegangen. Viele Menschen haben bei wunderbarem Wetter ein tolles Programm genossen. Einige von ihnen haben dabei auch Freifunk genutzt. Wir konnten Spitzenlasten von bis zu 80 Nutzern gleichzeitig verzeichnen und über das ganze Wochenende haben etliche hundert Menschen das Netz genutzt um zu kommunizieren. Wir sind glücklich, dass das alles so gut geklappt hat und freuen uns schon auf das nächste Jahr "
 		},
 		{
 			"icon":"wifi",
@@ -186,7 +186,7 @@
 			"icon":"home",
 			"headline":"Unterstütze uns!",
 			"image":"led.png",
-			"content":"<iframe frameborder='0' marginheight='0' marginwidth='0' src='https://www.betterplace.org/de/projects/34177-freifunk-fur-fluchtlingsunterkunft-in-meinerzhagen/widget' width='160' height='260' style='border: 0; padding:0; margin:0;'>Informieren und spenden: <a href='https://www.betterplace.org/de/projects/34177-freifunk-fur-fluchtlingsunterkunft-in-meinerzhagen/widget' target='_blank'>„Freifunk für Flüchtlingsunterkunft in Meinerzhagen“</a> auf betterplace.org öffnen.</iframe>",
+			"content":"<div style='height: 505px; width: 297px;margin-left: auto; margin-right: auto;'><iframe frameborder='0' marginheight='0' marginwidth='0' src='https://www.betterplace.org/de/projects/34177-freifunk-fur-fluchtlingsunterkunft-in-meinerzhagen/widget' height='260' style='transform-origin:0 0; transform: scale(1.85); border: 0; padding:0; margin:0;'>Informieren und spenden: <a href='https://www.betterplace.org/de/projects/34177-freifunk-fur-fluchtlingsunterkunft-in-meinerzhagen/widget' target='_blank'>„Freifunk für Flüchtlingsunterkunft in Meinerzhagen“</a> auf betterplace.org öffnen.</iframe></div>",
 			"url":"index.php"
 		},
 		{
